@@ -1,0 +1,30 @@
+NET "clk" LOC = P55;
+
+NET "disp[7]" LOC = P120;
+NET "disp[6]" LOC = P115;
+NET "disp[5]" LOC = P117;
+NET "disp[4]" LOC = P121;
+NET "disp[3]" LOC = P124;
+NET "disp[2]" LOC = P118;
+NET "disp[1]" LOC = P116;
+NET "disp[0]" LOC = P119;
+
+NET "dis[3]" LOC = P100;
+NET "dis[2]" LOC = P99;
+NET "dis[1]" LOC = P102;
+NET "dis[0]" LOC = P101;
+NET "ctrl[3]" LOC = P12;
+NET "ctrl[2]" LOC = P11;
+NET "ctrl[1]" LOC = P10;
+NET "ctrl[0]" LOC = P9;
+
+NET "rst" LOC = P67;
+NET "key[6]" LOC = P66;
+NET "key[5]" LOC = P62;
+NET "key[4]" LOC = P61;
+NET "key[3]" LOC = P59;
+NET "key[2]" LOC = P58;
+NET "key[1]" LOC = P57;
+NET "key[0]" LOC = P56;
+
+NET "sel" LOC = P74;
